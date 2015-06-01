@@ -1,0 +1,18 @@
+body {
+	font-family: "Lato", sans-serif;
+	color: #497077;
+	font-weight: 300;
+	background-color: #00090b;
+}
+
+h1 {
+	font: 60px "Sigmar One", cursive;
+}
+
+.title-logo {
+	margin: 20px;
+}
+
+.title-hr {
+	margin-top: -20px;
+}
